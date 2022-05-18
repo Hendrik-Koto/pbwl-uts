@@ -1,0 +1,14 @@
+{
+    "name": "asus/toserbainces-olshop",
+    "description": "Toko Online Toserba Inces",
+    "type": "project",
+    "require": {
+        "php": "^7.4"
+    },
+    "authors": [
+        {
+            "name": "Muhammad Hendrik Koto",
+            "email": "hendrixkoto123@gmail.com"
+        }
+    ]
+}
